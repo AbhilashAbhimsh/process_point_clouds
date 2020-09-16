@@ -5,7 +5,7 @@ import sys
 
 SIZE_OF_FLOAT = 4
 # for point cloud type x,y,z,intensity
-DEFAULT_FORMAT = 'ffff'
+DEFAULT_FORMAT = "ffff"
 
 
 def convert_bin_pcd(bin_file_path, pcd_file_path):
