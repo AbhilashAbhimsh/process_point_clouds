@@ -7,7 +7,7 @@ pandas
 pptk
 matplotlib
 
-**Process of Processing LiDAR Data**
+**Steps to Process LiDAR Data**
 1. Capture the LiDAR data into a file
 2. Process the File using any library of your choice
     Steps Involved in processing
